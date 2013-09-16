@@ -7,7 +7,7 @@ This is a modern re-packaging of an old Common Lisp scientific library by Gerald
 
 * I am submitting this "as-is" and make no claims as it its accuracy or stability. 
 
-* Please note, that this code is copywrited by its owner, whom I have been unable to contact. I have made no changes to the code other than for repackaging, i.e. so that it builds using ASDF. I have also eliminated some references to obsolete CL implementations (MACLISP, etc.). The logic of the functions remains the same.
+* Please note, that this code is copyrighted by its owner, whom I have been unable to contact. I have made no changes to the code other than for repackaging, i.e. so that it builds using ASDF. I have also eliminated some references to obsolete CL implementations (MACLISP, etc.). The logic of the functions remains the same.
 
 
 
